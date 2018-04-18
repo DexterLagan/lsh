@@ -1,7 +1,7 @@
 # lsh
 Lisp Shell
 
-This is a cross-platform shell developped in Racket. To use, either compile to binary using Racket 6.11 or newer, or run:
+This is a cross-platform shell developed in Racket. To use, either compile to binary using Racket 6.11 or newer, or run:
 
 Windows:
 "C:\Program Files\Racket\racket.exe" -f "lsh.rkt" -e "(require 'lsh)" -i
@@ -35,7 +35,8 @@ Available commands:
          echo    ; display something on the screen
          search  ; equivalent to Google's 'I'm feeling lucky'
 
-Oh, and it evaluates Racket forms from the command line. Remember to (display ) forms if you need to output results to the screen.
+  Oh, and it evaluates Racket forms from the command line. Remember to (display ) forms if you need to output results to the screen.
+This is still very Alpha, but I use it all the time, so you might as well have it too.
 
 Cheers,
 
