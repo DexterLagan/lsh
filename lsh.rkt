@@ -450,7 +450,7 @@ Advanced commands:
 ;;; main
 (about)
 (newline)
-(when (not (debug-mode)) (input-loop))
+; (when (not (debug-mode)) (input-loop))  ; for debugging only
 (input-loop)
 
 
