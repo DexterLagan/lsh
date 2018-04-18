@@ -12,7 +12,7 @@
 ; v0.3.1b - fixes save-script. Racket 6.11.
 ; v0.4 - First posted on GitHub, gui enabled.
 
-(define current-version "v0.3.1b Alpha (nogui)")
+(define current-version "v0.4 Alpha")
 
 (provide help       ; displays this message
          cd      ; displays the current working directory or change it
