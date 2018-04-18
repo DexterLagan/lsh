@@ -36,7 +36,7 @@ Available commands:
          search  ; equivalent to Google's 'I'm feeling lucky'
 
   Oh, and it evaluates Racket forms from the command line. Remember to (display ) forms if you need to output results to the screen.
-This is still very Alpha, but I use it all the time, so you might as well have it too.
+This is still very Alpha, but I use it all the time, so you might as well have it too. I use it in Windows, but it should work out of the box on Linux, BSD and MacOS - and if not, would require minor changes.
 
 Cheers,
 
