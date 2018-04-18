@@ -1,4 +1,4 @@
-#lang racket/base
+#lang racket/gui
 
 ; A library to explore files and directories DOS and UNIX style.
 ; Typically, DOS commands will display path objects while their UNIX counterparts will pretty-print paths instead.
