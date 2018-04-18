@@ -10,6 +10,7 @@ Unix:
 racket -f "lsh.rkt" -e "(require 'lsh)" -i
 
 Available commands:
+
          help    ; displays this message
          cd      ; displays the current working directory or change it
          cd/     ; same as (cd "/") - goes back to filesystem root
